@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "475463191250",
+    "firebase_url": "https://tour-meet.firebaseio.com",
+    "project_id": "tour-meet",
+    "storage_bucket": "tour-meet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475463191250:android:e9d81b25c4f6ee8d",
+        "android_client_info": {
+          "package_name": "com.example.rumi.tourassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475463191250-7r0jcq6re60c3t8r5jqafhq6fg4lct90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5nzVuAb1UeDTtUfuFtCCAP6Vp8Erur7k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
